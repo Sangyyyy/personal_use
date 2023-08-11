@@ -2,6 +2,8 @@
 
 The Blackjack Simulators project provides a collection of Python scripts that allow users to simulate and analyze various aspects of the classic card game, Blackjack. These simulators offer different perspectives on Blackjack gameplay, enabling users to explore different strategies, scenarios, and outcomes through simulation.
 
+<img width="600" alt="image" src="https://github.com/Sangyyyy/personal_use/assets/134233430/0a79a3b5-1eee-4672-9388-d4e00e89e81a">
+
 ## Table of Contents
 
     1. Overview
