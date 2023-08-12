@@ -154,10 +154,14 @@ Percentage of Losses: The portion of simulations where the player loses to the d
 
 Percentage of Ties: The portion of simulations where the player's hand ties with the dealer's hand.
 
+The results are visualized using a bar chart that displays the occurrences of different outcomes - Wins, Losses, and Ties - over the course of simulations.
+
     Results after 10000 simulations:
     Win: 42.059999999999995%
     Loss: 51.53%
     Tie: 6.41%
+    
+<img width="500" alt="image" src="https://github.com/Sangyyyy/personal_use/assets/134233430/b21ef425-56a8-4381-9150-d8b3bbe1aa80">
 
 #### Inexperienced Blackjack Simulator:
 
@@ -167,10 +171,14 @@ Percentage of Losses: The percentage of simulations where the inexperienced play
 
 Percentage of Pushes: The percentage of simulations where the game results in a push (tie between player and dealer).
 
+The simulation results are also visually represented through a bar chart, displaying the occurrences of different outcomes - Wins, Losses, and Pushes - over the course of the simulations.
+
     Total games played: 10000
     Win percentage: 28.71%
     Loss percentage: 66.99%
     Push percentage: 4.30%
+    
+<img width="500" alt="image" src="https://github.com/Sangyyyy/personal_use/assets/134233430/0382d213-9c2b-4e6f-b7e0-6b72ea0bb8a3">
 
 #### Simplified Blackjack Simulator (No Splitting):
 
@@ -180,11 +188,15 @@ Percentage of Losses: The percentage of simulations where the player loses.
 
 Percentage of Pushes: The percentage of simulations resulting in a push.
 
+The simulation results are presented through a bar chart, displaying the occurrences of different outcomes - Wins, Losses, and Pushes - over the course of the simulations for the simplified blackjack game.
+
     Total games played: 10000
     Win percentage: 40.13%
     Loss percentage: 49.95%
     Push percentage: 9.92%
     
+<img width="500" alt="image" src="https://github.com/Sangyyyy/personal_use/assets/134233430/531f2151-6964-4493-a0e9-507992156dda">  
+
 ## Target Audience
 
 It is particularly useful for those who wish to:
