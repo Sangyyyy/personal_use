@@ -17,10 +17,10 @@ This explores the intricacies of splitting hands. It allows users to observe the
 Experience Blackjack excitement with an interactive game interface and stylish design, where your every move determines your fate. 
 
 ## Strategies
-<img width="500" alt="image" src="https://github.com/Sangyyyy/personal_use/assets/134233430/fdd440c1-b132-4e02-8763-11f388af13c6">
+<img width="500" alt="Strategies" src="https://github.com/Sangyyyy/personal_use/assets/134233430/a8fdd9c6-b004-489d-bd76-5bff0c01c6b6">
 
 ## Flowchart 
-<img width="500" alt="image" src="https://github.com/Sangyyyy/personal_use/assets/134233430/da9cef8a-3459-4185-b26d-be8beede8aac">
+<img width="500" alt="Flowchart" src="https://github.com/Sangyyyy/personal_use/assets/134233430/750b55fb-e701-4a75-9579-4ae96b27f48c">
 
 ## Getting Started
 To run the Blackjack simulation codes on your local machine, follow these steps:
@@ -66,16 +66,16 @@ These results are visualized using bar charts, showcasing the distribution of di
 The project culminates in a combined plot, comparing the strategies' simulation results. It showcases the distribution of wins, losses, and ties across 100,000 simulations, shedding light on the strategies' relative effectiveness.
 
 #### Blackjack_Inexperienced_player.py
-<img width="350" alt="image" src="https://github.com/Sangyyyy/personal_use/assets/134233430/836c1436-583f-4ab0-bd8c-e2d6cd74ae68">
+<img width="350" alt="Inexperienced" src="https://github.com/Sangyyyy/personal_use/assets/134233430/c815b7c3-6df1-41e0-84a6-7b54dbdede44">
 
 #### Blackjack_simple_logic.py
-<img width="350" alt="image" src="https://github.com/Sangyyyy/personal_use/assets/134233430/3fb31ea8-240d-4fe3-93a7-c88c3b910f45">
+<img width="350" alt="Simple" src="https://github.com/Sangyyyy/personal_use/assets/134233430/2758ce9e-164e-4271-8030-cef48706438a">
 
 #### Blackjack_with_splitting.py
-<img width="350" alt="image" src="https://github.com/Sangyyyy/personal_use/assets/134233430/ee5265d4-9c8b-4ed0-a051-fae1d4e4b2d4">
+<img width="350" alt="Spiltting" src="https://github.com/Sangyyyy/personal_use/assets/134233430/97657cc7-35f0-4e36-b471-3bef9342088a">
 
 #### Blackjack_combined_plot_100000_sims.py
-<img width="350" alt="image" src="https://github.com/Sangyyyy/personal_use/assets/134233430/3c994a1f-67b9-44a8-b1b5-52236beba6c3">
+<img width="350" alt="Combined" src="https://github.com/Sangyyyy/personal_use/assets/134233430/c4ea68f0-9adc-4a70-827e-5c41ad414ac3">
 
 ## Target Audience
 1. Individuals interested in learning Blackjack strategies.
