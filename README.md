@@ -1,25 +1,23 @@
 # SIMULATE SINGLE DECK BLACKJACK
 The Blackjack Simulation project offers a collection of Python scripts designed to allow users to simulate and analyze various aspects of the classic card game, Blackjack. These simulations provide different perspectives on Blackjack gameplay, enabling users to explore different strategies, scenarios, and outcomes through simulation.
 
-<img width="400" alt="image" src="https://github.com/Sangyyyy/personal_use/assets/134233430/0a79a3b5-1eee-4672-9388-d4e00e89e81a">
-
 ## Overview
 This project aims to simulate different strategies of Blackjack and compare the results.
 
-#### Blackjack Simulation (Splitting pairs):
-This explores the intricacies of splitting hands. It allows users to observe the effects of splitting specific pairs of cards on their chances of winning, losing, or tying against the dealer. Here we employ basic strategy and considers the conversion of Aces to optimize hand values.
-
 #### Inexperienced Blackjack Simulation: 
-Geared towards newcomers to the game, this one simplifies player actions to random choices between hitting and staying. It provides insights into win, loss, and push probabilities using basic gameplay decisions.
+Geared towards newcomers to the game, this one simplifies player actions to random choices between hitting and staying (random.choice(['hit', ‘stand']))
 
 #### Simplified Blackjack Simulation (No Splitting):
-This offers a straightforward experience without splitting. It models player decisions as hit or stay and allows users to explore the impact of different hand values on game outcomes.
+Player's decisions are based on the value of their hand. The player hits if their hand value is less than 17 and stands otherwise.
+
+#### Blackjack Simulation (Splitting pairs):
+This explores the intricacies of splitting hands. It allows users to observe the effects of splitting specific pairs of cards on their chances of winning, losing, or tying against the dealer. Demonstrates a more advanced simulation of Blackjack, incorporating splitting logic and a strategy based on dealer’s card (upcard).
 
 ## Blackjack Game Experience
-Experience Blackjack excitement with an immersive game interface and stylish design, where your every move determines your fate.
+Experience Blackjack excitement with an interactive game interface and stylish design, where your every move determines your fate. 
 
 ## Strategies
-<img width="500" alt="image" src="https://github.com/Sangyyyy/personal_use/assets/134233430/608bbeb6-b17d-491c-9e31-20f60e6e3f4d">
+<img width="500" alt="image" src="https://github.com/Sangyyyy/personal_use/assets/134233430/fdd440c1-b132-4e02-8763-11f388af13c6">
 
 ## Flowchart 
 <img width="500" alt="image" src="https://github.com/Sangyyyy/personal_use/assets/134233430/da9cef8a-3459-4185-b26d-be8beede8aac">
@@ -52,12 +50,10 @@ Replace script_name.py with the desired simulation script.
 ```bash
 1. Download or clone this repository.
 2. Open `index.html` in your web browser.
-3. Explore the interactive Blackjack Simulation and experiment with different strategies.
+3. Enjoy the interactive Blackjack experience right in your browser.
 ```
-Enjoy the immersive Blackjack experience right in your browser!
-
 ## Result
-After running simulations for different blackjack strategies, we gain valuable insights into diverse blackjack scenarios. These results allow us to analyze the effectiveness of various strategies, explore potential outcomes, and better understand the probabilities associated with different decisions in the game.
+After running simulations for different blackjack strategies, we gain valuable insights into diverse blackjack scenarios. These results allow us to analyze the effectiveness of various strategies, explore potential outcomes, and better understand how each approach fares in gameplay.
 
 Percentage of Wins: The portion of simulations where the player wins against the dealer.
 
@@ -69,14 +65,14 @@ These results are visualized using bar charts, showcasing the distribution of di
 
 The project culminates in a combined plot, comparing the strategies' simulation results. It showcases the distribution of wins, losses, and ties across 100,000 simulations, shedding light on the strategies' relative effectiveness.
 
-#### Blackjack_with_splitting.py
-<img width="350" alt="image" src="https://github.com/Sangyyyy/personal_use/assets/134233430/ee5265d4-9c8b-4ed0-a051-fae1d4e4b2d4">
-
 #### Blackjack_Inexperienced_player.py
 <img width="350" alt="image" src="https://github.com/Sangyyyy/personal_use/assets/134233430/836c1436-583f-4ab0-bd8c-e2d6cd74ae68">
 
 #### Blackjack_simple_logic.py
 <img width="350" alt="image" src="https://github.com/Sangyyyy/personal_use/assets/134233430/3fb31ea8-240d-4fe3-93a7-c88c3b910f45">
+
+#### Blackjack_with_splitting.py
+<img width="350" alt="image" src="https://github.com/Sangyyyy/personal_use/assets/134233430/ee5265d4-9c8b-4ed0-a051-fae1d4e4b2d4">
 
 #### Blackjack_combined_plot_100000_sims.py
 <img width="350" alt="image" src="https://github.com/Sangyyyy/personal_use/assets/134233430/3c994a1f-67b9-44a8-b1b5-52236beba6c3">
